@@ -5,3 +5,4 @@ A mobile application for bus rides to locations such as work/school. Passengers 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+The source files for the application are in the "bus_app/lib/" directory.
